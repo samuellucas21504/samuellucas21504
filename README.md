@@ -10,4 +10,4 @@ I am always playing with some projects so feel free to check my repositories and
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuellucas21504&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuellucas21504&show_icons=true&theme=radical)
