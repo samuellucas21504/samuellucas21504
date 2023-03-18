@@ -2,7 +2,7 @@
 
 My name is Samuel Lucas 👋.
 
-I'm a 21 years old brazilian 🇧🇷 developer, that loves learning about programming 💻.
+I'm a 22 years old brazilian 🇧🇷 developer, that loves learning about programming 💻.
 
 I am trying to specialize in the front-end 🤓, but I am also learning a lot of things about the back-end 😬.
 
